@@ -33,8 +33,6 @@ quoting code
 
 [Email](mailto:nateueda@gmail.com) | [GitHub](https://github.com/nathanueda) | [LinkedIn](https://www.linkedin.com/in/nathanueda/)
 
-<center> [Email](mailto:nateueda@gmail.com) | [GitHub](https://github.com/nathanueda) | [LinkedIn](https://www.linkedin.com/in/nathanueda/) </center>
-
 - [ ] Picture 
 - [x] Headings
 - [x] Styling Text
