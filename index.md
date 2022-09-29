@@ -7,8 +7,6 @@
 >
 >Thanks for visiting my website!
 
-
-
 ## About Me
 My favorite programming language is C++ largely due to how fast it runs and how much control you have over your code. One of my favorite features in C++ is smart pointers (i.e. `queue<shared_ptr<Coordinate>> check;`) as they help make memory related issues easier to manage.
 
