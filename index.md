@@ -11,7 +11,6 @@ My favorite programming language is C++ largely due to how fast it runs and how 
 
 ![](/images/profile.png) 
 
-
 ## Experience
 CSE Tutor for CSE 100 (Advanced Data Structures) @ UCSD
 - [x] Provided additional instruction and debugging assistance to students.
@@ -33,15 +32,3 @@ CSE Tutor for CSE 100 (Advanced Data Structures) @ UCSD
 * Exports the results to a neatly formatted excel document.
 
 [Email](mailto:nateueda@gmail.com) | [GitHub](https://github.com/nathanueda) | [LinkedIn](https://www.linkedin.com/in/nathanueda/)
-
-- [x] Picture 
-- [x] Headings
-- [x] Styling Text
-- [x] Quoting Text
-- [ ] Quoting Code
-- [x] External Links
-- [x] Section Links
-- [x] Relative Links
-- [x] Ordered Lists
-- [x] Unordered Lists
-- [x] Task Lists
