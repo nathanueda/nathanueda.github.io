@@ -6,8 +6,7 @@
 >CS @ UCSD
 >
 >Thanks for visiting my website!
->
-<br/>
+
 
 
 ## About Me
