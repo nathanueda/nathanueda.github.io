@@ -2,7 +2,7 @@
 
 # **Nathan Ueda**
 ## <center>> Hello, my name is Nathan.</center>
-##### <center>CS @ UCSD</center>
+##### <center>CS @ UCSD
 ## <center>> Thanks for visiting my website!</center>
 <br/>
 
