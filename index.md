@@ -1,10 +1,14 @@
 ## [About Me](#about-me) &nbsp; &nbsp; &nbsp; [Experience](#experience) &nbsp; &nbsp; &nbsp; [Projects](#projects) 
 
 # **Nathan Ueda**
-## <center>> Hello, my name is Nathan.</center>
-##### <center>CS @ UCSD
-## <center>> Thanks for visiting my website!</center>
+>Hello, my name is Nathan.
+>
+>CS @ UCSD
+>
+>Thanks for visiting my website!
+>
 <br/>
+
 
 ## About Me
 My favorite programming language is C++ largely due to how fast it runs and how much control you have over your code. One of my favorite features in C++ is smart pointers (i.e. `queue<shared_ptr<Coordinate>> check;`) as they help make memory related issues easier to manage.
