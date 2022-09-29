@@ -1,3 +1,3 @@
 Website Link: https://nathanueda.github.io/
 
-Live Branch Link: https://github.com/nathanueda/nathanueda.github.io/tree/add-read-me_02
+Live Branch Link (has all other files): https://github.com/nathanueda/nathanueda.github.io/tree/add-read-me_02
