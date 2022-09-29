@@ -1,22 +1,21 @@
-# [Experience](#experience) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#projects) 
+## [About Me](#about-me) &nbsp; &nbsp; &nbsp; [Experience](#experience) &nbsp; &nbsp; &nbsp; [Projects](#projects) 
 
 # **Nathan Ueda**
 ## <center>> Hello, my name is Nathan.</center>
 ##### <center>CS @ UCSD</center>
 ## <center>> Thanks for visiting my website!</center>
-<br/><br/>
+<br/>
+
+## About Me
+My favorite programming language is C++ largely due to how fast it runs and how much control you have over your code. One of my favorite features in C++ is smart pointers (i.e. `queue<shared_ptr<Coordinate>> check;`) as they help make memory related issues easier to manage.
+
+![](/images/profile.png) 
 
 
 ## Experience
 CSE Tutor for CSE 100 (Advanced Data Structures) @ UCSD
 - [x] Provided additional instruction and debugging assistance to students.
 - [x] Collaborated with course staff and other tutors to ensure high-level course quality. 
-
-```
-quoting code
-```
-
-![](/images/profile.png) 
 
 ## Projects
 1. [Quantitative Momentum Strategy](https://github.com/nathanueda/Algorithmic-Trading-in-Python/blob/main/002_quantitative_momentum_strategy.ipynb) (Python)
@@ -41,7 +40,7 @@ quoting code
 - [x] Quoting Text
 - [ ] Quoting Code
 - [x] External Links
-- [ ] Section Links
+- [x] Section Links
 - [x] Relative Links
 - [x] Ordered Lists
 - [x] Unordered Lists
