@@ -14,7 +14,7 @@ CSE Tutor for CSE 100 (Advanced Data Structures) @ UCSD
 quoting code
 ```
 
-![](https://github.com/nathanueda/nathanueda.github.io/blob/add-read-me_02/images/profile.png) 
+![](/images/profile.png) 
 
 ## Projects
 1. [Quantitative Momentum Strategy](https://github.com/nathanueda/Algorithmic-Trading-in-Python/blob/main/002_quantitative_momentum_strategy.ipynb) (Python)
@@ -33,14 +33,14 @@ quoting code
 
 [Email](mailto:nateueda@gmail.com) | [GitHub](https://github.com/nathanueda) | [LinkedIn](https://www.linkedin.com/in/nathanueda/)
 
-- [ ] Picture 
+- [x] Picture 
 - [x] Headings
 - [x] Styling Text
 - [x] Quoting Text
 - [ ] Quoting Code
 - [x] External Links
 - [ ] Section Links
-- [ ] Relative Links
+- [x] Relative Links
 - [x] Ordered Lists
 - [x] Unordered Lists
 - [x] Task Lists
