@@ -1,3 +1,5 @@
+# [Experience](#experience) &nbsp; &nbsp; &nbsp; &nbsp; [Projects](#projects) 
+
 # **Nathan Ueda**
 ## <center>> Hello, my name is Nathan.</center>
 ##### <center>CS @ UCSD</center>
@@ -7,8 +9,8 @@
 
 ## Experience
 CSE Tutor for CSE 100 (Advanced Data Structures) @ UCSD
-* Provided additional instruction and debugging assistance to students.
-* Collaborated with course staff and other tutors to ensure high-level course quality. 
+- [x] Provided additional instruction and debugging assistance to students.
+- [x] Collaborated with course staff and other tutors to ensure high-level course quality. 
 
 ```
 quoting code
